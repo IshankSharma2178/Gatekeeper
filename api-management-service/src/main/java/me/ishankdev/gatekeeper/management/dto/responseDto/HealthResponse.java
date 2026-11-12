@@ -1,4 +1,4 @@
-package me.ishankdev.gatekeeper.management.responseDto;
+package me.ishankdev.gatekeeper.management.dto.responseDto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
